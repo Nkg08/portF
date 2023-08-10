@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /*
+Host: angel-portfolio-117.netlify.app

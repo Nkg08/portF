@@ -1,1 +1,1 @@
-<h1 align="center">Welcome to my developer-portfolio 👋</h1>
+<h1 align="center">Welcome👋</h1>

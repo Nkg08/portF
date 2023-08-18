@@ -19,19 +19,19 @@ export default function Home({ githubProfileData }) {
 		<div>
 			<SEO
 				data={{
-					title: "Ángel Gutiérrez",
+					title: "Naman Goyal",
 					description:
 						"A passionate Frontend Web Developer and React Developer.",
-					image: "https://avatars.githubusercontent.com/u/31224243?s=400&u=cfdd429fbd24bd5d1413f0864b03e111aa1672ad&v=4",
-					url: "https://angel-portfolio-117.netlify.app/",
+					//image: "https://avatars.githubusercontent.com/u/31224243?s=400&u=cfdd429fbd24bd5d1413f0864b03e111aa1672ad&v=4",
+					//url: "https://angel-portfolio-117.netlify.app/",
 					keywords: [
 						"Ángel",
-						"Ángel Gutiérrez",
-						"@kraiver117",
-						"kraiver117",
+						"Naman Goyal",
+						"@namankgoyal",
+						"namankgoyal",
 						"Portfolio",
-						"Ángel Portfolio ",
-						"Ángel Gutiérrez Portfolio",
+						"Naman Portfolio ",
+						"Naman Goyal Portfolio",
 						"web developer",
 						"full stack",
 						"full stack web developer",

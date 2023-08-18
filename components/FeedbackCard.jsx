@@ -21,3 +21,4 @@ const FeedbackCard = ({ data }) => {
 };
 
 export default FeedbackCard;
+*/

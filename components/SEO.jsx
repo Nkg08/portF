@@ -7,7 +7,7 @@ function SEO({ data }) {
 		<Head>
 			<title>{data.title}</title>
 			<meta name="title" content={data.title} />
-			<meta name="author" content="Angel Gutierrez" />
+			<meta name="author" content="Naman Goyal" />
 			<meta name="description" content={data.description} />
 			<meta name="keywords" content={data.keywords.join(", ")} />
 			<link rel="canonical" href={data.url} />

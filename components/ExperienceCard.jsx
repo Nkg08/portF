@@ -62,3 +62,4 @@ const ExperienceCard = ({ data }) => {
 };
 
 export default ExperienceCard;
+*/

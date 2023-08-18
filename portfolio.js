@@ -21,7 +21,7 @@ export const socialLinks = {
     linkedin: "https://www.linkedin.com/namankgoyal/"
 };
 
-export const skillsSection = {
+/*export const skillsSection = {
     title: "What I do",
     subTitle: "Frontend Web Developer who wants to create quality, fast, robust and really cool apps",
     skills: [
@@ -204,3 +204,4 @@ export const feedbacks = [{
         feedback: "the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
     },
 ];
+*/

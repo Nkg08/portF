@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 
 import { projects } from "../portfolio";
 import { Container, Row } from "reactstrap";
@@ -32,3 +32,4 @@ const Projects = () => {
 };
 
 export default Projects;
+*/

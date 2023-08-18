@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import EdutionCard from "../components/EdutionCard";
 import { educationInfo } from "../portfolio";
 import { Container, Row, Col } from "reactstrap";
@@ -51,3 +51,4 @@ const Edution = () => {
 };
 
 export default Edution;
+*/

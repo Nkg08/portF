@@ -149,7 +149,7 @@ export const experience = [{
         companylogo: "",
         date: "Present",
         desc: "I've worked "
-        ],
+        
     },
 ];
 

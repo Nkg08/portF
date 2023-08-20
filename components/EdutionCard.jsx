@@ -1,4 +1,4 @@
-/*import React from "react";
+import React from "react";
 import { Card, CardBody, Badge } from "reactstrap";
 
 import { Fade } from "react-reveal";
@@ -34,4 +34,4 @@ const EdutionCard = ({ education }) => {
 };
 
 export default EdutionCard;
-*/
+

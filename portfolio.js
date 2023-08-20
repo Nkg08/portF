@@ -17,7 +17,7 @@ export const socialLinks = {
     facebook: "https://www.facebook.com/namankgoyal/",
     instagram: "https://www.instagram.com/namankgoyal/",
     twitter: "https://twitter.com/namankgoyal",
-    github: "https://ginamankgoyal",
+    github: "https://github.com/namankgoyal",
     linkedin: "https://www.linkedin.com/namankgoyal/"
 };
 

@@ -1,4 +1,4 @@
-/*import React from "react";
+import React from "react";
 
 import {
 	Card,
@@ -62,4 +62,4 @@ const ExperienceCard = ({ data }) => {
 };
 
 export default ExperienceCard;
-*/
+

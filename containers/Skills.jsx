@@ -1,4 +1,4 @@
-/*import React, { Fragment } from "react";
+import React, { Fragment } from "react";
 
 import { Fade } from "react-reveal";
 import DisplayLottie from "../components/DisplayLottie";
@@ -57,4 +57,4 @@ const Skills = () => {
 };
 
 export default Skills;
-*/
+

@@ -1,4 +1,4 @@
-/*import React from "react";
+import React from "react";
 import { SkillBars } from "../portfolio";
 import { Container, Row, Progress, Col } from "reactstrap";
 
@@ -46,4 +46,4 @@ const Proficiency = () => {
 };
 
 export default Proficiency;
-*/
+

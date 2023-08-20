@@ -4,7 +4,7 @@ export const greetings = {
     name: "Naman Goyal",
     title: "Hi, I'm Naman Goyal 👋",
     description: "A passionate Frontend Web Developer having 2+ years of experience building Web applications with JavaScript / HTML / CSS / Reactjs / Nodejs  and some other cool libraries and frameworks. Looking to collaborate with a company or project to face new challenges and gain more experience.",
-    resumeLink: "https://drive.google.com/drive/folders/1_lQ91EwhjUVhnwk2rJQDYffhg9eDwnHz",
+    resumeLink: "",
 };
 
 export const openSource = {

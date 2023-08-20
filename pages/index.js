@@ -22,7 +22,7 @@ export default function Home({ githubProfileData }) {
 					title: "Naman Goyal",
 					description:
 						"A passionate Frontend Web Developer and React Developer.",
-					image: "https://avatars.githubusercontent.com/u/31224243?s=400&u=cfdd429fbd24bd5d1413f0864b03e111aa1672ad&v=4",
+					image: "/testimonial-2.jpg",
 					//url: "https://angel-portfolio-117.netlify.app/",
 					keywords: [
 						"Naman",
